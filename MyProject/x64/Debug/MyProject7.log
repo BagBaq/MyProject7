@@ -1,0 +1,9 @@
+﻿  Level.cpp
+  Player.cpp
+  Source.cpp
+  World.cpp
+  Generating Code...
+Level.obj : error LNK2001: unresolved external symbol "class sf::RenderWindow s_gameWindow" (?s_gameWindow@@3VRenderWindow@sf@@A)
+Player.obj : error LNK2001: unresolved external symbol "class sf::RenderWindow s_gameWindow" (?s_gameWindow@@3VRenderWindow@sf@@A)
+Source.obj : error LNK2001: unresolved external symbol "class sf::RenderWindow s_gameWindow" (?s_gameWindow@@3VRenderWindow@sf@@A)
+C:\Users\Albayrak\source\repos\MyProject7\x64\Debug\MyProject7.exe : fatal error LNK1120: 1 unresolved externals
